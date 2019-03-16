@@ -1,0 +1,44 @@
+li>div{
+	float: left;
+	margin-right: 5px;
+}
+.mychart{
+	width: 90%;
+	height: 90%;
+	padding: 10px 10px 10px 10px;
+}
+#chart{
+	width: 100%;
+}
+.label{
+	position: relative;
+	bottom: 3px;
+}
+.defaultBlock{
+	/*box-shadow: 3px 3px 3px #888888;*/
+	/*background-color: #faffff;*/
+	/*margin: 5px 5px 5px 5px;*/
+	/*border: 1px solid #999999;*/
+	margin: 0px 0px 0px 0px;
+	padding: 10px 10px 0px 10px;
+}
+#rightPart{
+	/*box-shadow: 3px 3px 3px #888888;*/
+	width: 73%;
+	/*border: 1px solid #aaaaaa;*/
+	/*background-color: white;*/
+	margin: 5px 5px 5px 10px;
+	padding: 5px 10px 10px 10px;
+}
+.subchart{
+	width: 50%;
+	float: left;
+}
+#data{
+	/*border: 1px solid #aaaaaa;*/
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+	width: 25%;
+}
+
+

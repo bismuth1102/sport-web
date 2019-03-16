@@ -1,0 +1,115 @@
+.section{
+	background-size: cover;
+	text-align:center;
+}
+#titleDiv{
+	float: right;
+	margin-right: 8%;
+	margin-top: 5%;
+}
+#titleDiv2{
+	float: left;
+	margin-left: 7%;
+	margin-top: 20%;
+	margin-bottom: 10%;
+}
+.title{
+	font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
+	color: #ffd864;
+	margin:0;
+	padding:0;
+}
+#title{
+	font-size: 400%;
+}
+#title2{
+	font-size: 300%;
+}
+
+#section1{
+	background-image: url(../images/bg3.jpg);
+}
+#section0{
+	background-image: url(../images/bg2.jpg);
+}
+#myVideo{
+	position: relative;
+	float: left;
+	margin-left: 2%;
+	margin-top:5%;
+	width: 50%;
+	height: 50%;
+	background-size: 100% 100%;
+	background-color: black; /* in case the video doesn't fit the whole page*/
+	background-image: /* our video */;
+	background-position: center center;
+	background-size: contain;
+	object-fit: cover; /*cover video background */
+	z-index:3;
+}
+#formDiv{
+	/*float: right;*/
+	margin-right: 2%;
+	margin-top: 5%;
+}
+
+#picContainer{
+	left: 5%;
+	top: 20%;
+	margin:0 auto;
+	width:80%;
+	height: 55%;
+	position: relative;
+}
+.pic{
+	padding:0;
+	opacity:0.7;
+	background-color: #ebf3ff;
+	height: 100%;
+	width: 27%;
+	border-style: ridge;
+	border-width: 10px;
+    border-color: #363636;
+	margin: 1%;
+}
+
+.chart{
+	padding:0;
+	margin:0 auto;
+	width: 90%;
+	height: 70%;
+}
+.description{
+	margin-top: 10%;
+	width: 80%;
+	height: 100%;
+	font-size: 140%;
+}
+#sportDes{
+	margin-left: auto;
+}
+#compDes{
+	margin-left: auto;
+	margin-right: auto;
+}
+#messageDes{
+	margin-left: auto;
+	margin-right: auto;
+}
+#piePerson{
+	float: left;
+	margin-left: 10%;
+	margin-top: 10%;
+}
+#messageChart{
+	position:relative;
+	bottom: 12%;
+}
+
+
+#sign{
+	top: 20%;
+}
+.form-group{
+ 	margin: 5px;
+}

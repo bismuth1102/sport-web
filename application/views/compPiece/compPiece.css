@@ -1,0 +1,10 @@
+.form-group{
+	margin-bottom:5px;
+}
+.label{
+	position: relative;
+	top : 6px;
+}
+.noPadding{
+	padding: 0;
+}

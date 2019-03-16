@@ -1,0 +1,43 @@
+.section{
+	background-size: cover;
+}
+#section0{
+	background-image: url(../images/bg1.jpg);
+}
+#section1{
+	background-image: url(../images/bg2.jpg);
+}
+button{
+	height: 80px;
+	min-width: 150px;
+}
+input[type="text"]{
+	height: 80px;
+}
+input[type="checkbox"]{
+	 -ms-transform: scale(2); /* IE */
+	 -moz-transform: scale(2); /* FireFox */
+	 -webkit-transform: scale(2); /* Safari and Chrome */
+	 -o-transform: scale(2);
+}
+label{
+	position: relative;
+	top: 30px;
+	font-size: 200%;
+	color:black;
+}
+#sign{
+	position: relative;
+	top: 400px;
+	/*right: 50px;*/
+}
+#gallery{
+	position: relative;
+	top: 400px;
+}
+.btn{
+	font-size: 200%;
+}
+.form-control{
+	font-size: 200%;
+}

@@ -1,0 +1,358 @@
+.single{padding-top: 5px;}
+.MATT{height: 32px;line-height: 32px;}
+.UDtx {width: 90px;margin-right:10px;text-align: center;position:relative;}
+.UDtx img{border-radius: 7px;}
+.yellow_icon{display:inline-block; text-align:center; font-size:12px; width:19px; height:21px;background-position:-94px -7px;position:absolute; right:-5px; top:-5px;line-height:21px;color:#333333;}
+.UDtx img{width: 90px;}
+/*宸﹁竟瀵艰埅*/
+.match_left_nav{margin: 20px 0;}
+.match_left_nav h3{padding-left:36px;}
+.match_left_nav .match_left_list{top:35px;right:-18px;_left:0px;}
+.match_left_nav .match_left_list a{display:inline-block; width:200px; height:50px;text-align: center; line-height:50px; color:#699000;margin:5px 0px; padding-left:60px;}
+.match_left_nav .match_left_list a:hover{color:#ffffff;}
+.match_left_nav .match_left_list .list_on{background-color:#A2AD8B; border-radius: 5px 0px 0px 5px; -webkit-border-radius: 5px 0px 0px 5px; -moz-border-radius: 5px 0px 0px 5px;color:#fff;}
+.match_left_nav .match_left_list .list_on:hover{background-color:#A2AD8B;color:#fff;}
+.match_left_nav .match_left_list .list_on .co8{color:#ffffff;}
+.match_left_nav .match_left_list a:hover{background-color:#d8e1c8; border-radius: 7px 0px 0px 7px; -webkit-border-radius: 7px 0px 0px 7px; -moz-border-radius: 7px 0px 0px 7px;}
+.match_left_nav .match_left_list a:hover .co8{color:#ffffff;}
+
+.match_left_nav .match_left_list .list_on:hover .match_left_color{color:#A2AD8B;}
+.match_left_nav .match_left_list .list_on .match_left_color{color:#A2AD8B;}
+.match_left_nav .match_left_list a .match_left_color{color:#F3F3F3;}
+.match_left_nav .match_left_list a:hover .match_left_color{color:#d8e1c8;}
+
+
+/*.match_left_nav .line1, .line2{width:242px;margin-left:10px;}*/
+/*姣旇禌棣栭〉*/
+.match_title{margin-bottom:20px;}
+.match_player{margin-bottom:50px;}
+.match_player dt{float:left; width:85px;}
+.match_left_nav dt img{ border-radius: 7px; -moz-border-radius: 7px; -webkit-border-radius: 7px;  }
+.match_player dd{margin-left:95px;position:relative;}
+.match_player dd .match_name{margin:10px  0px 15px; display:inline-block;position:relative;}
+.single .orangeBtn{position:absolute;right:0; top:15px;}
+.single .orangeBtnCenter{line-height:25px;}
+.single .rule{right:30px; top:70px;}
+.single .flag{width:28px;height:33px;background-position:-7px -246px; margin-top:8px;margin-right:10px;}
+.match_flag{display:inline-block;width:28px; height:34px; background-position:-21px -17px;}
+.match_flags{display:inline-block;width: 40px; height: 40px; background-position:-15px -74px;}
+.match_goal{display:inline-block;width:46px; height: 45px; background-position:-192px -362px;}
+.match_team_flags{display:inline-block;width:62px; height:35px; background-position:-4px -138px;}
+.match_time{display:inline-block;width:47px; height:46px; background-position:-11px -193px;}
+.match_table{width:100%; background-color:#EEEEEE; color:#333333; border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px;}
+
+.match_table .lasttd{border-radius: 0 4px 4px 0; -moz-border-radius: 0 4px 4px 0; -webkit-border-radius: 0 4px 4px 0;}
+.match_table img{border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px;}
+.match_table td{line-height: 30px;}
+.match_table .end{color:#ff6600;}
+.match_line{height:1px;border-bottom: 1px dashed #DADADA;margin-top:10px; overflow:hidden;}
+.match_box {margin-right:16px; display:inline;width:200px;overflow:hidden;}
+.match_box p{line-height:25px;}
+.myFriends_list{width:325px;height:80px;}
+.myFriends_list dt{float:left; width:55px;}
+.myFriends_list dt img{border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px;}
+.myFriends_list dd{margin-left:60px;}
+.match_color{color:#ff6600;font-weight:bold;}
+.match_color_2{color:#666666;font-weight:bold;}
+.no_match_title{height:24px;margin-bottom:20px;color:#999999;}
+.no_match_ul{margin-bottom:20px; overflow:hidden;}
+.no_match_ul .li{margin-right:10px; float:left;height:147px;width:120px;}
+.no_match_ul a{display:inline-block;overflow:hidden; width:120px;height:124px;background-color:#EEEEEE; border-radius: 7px; -webkit-border-radius: 7px; -moz-border-radius: 7px; text-align: center;padding-top:18px;}
+.no_match_ul a:hover{border:#699000 2px solid;}
+.singlepk_icon{width:42px;height:54px; background-position:-122px -9px; margin:0 auto; margin-bottom:5px;}
+.multipk_icon{width:53px; height:54px;background-position:-119px -71px; margin:0 auto; margin-bottom:5px;}
+.teampk_icon{width:81px; height:54px;background-position:-119px -135px; margin:0 auto; margin-bottom:5px;}
+.relaypk_icon{width:53px; height:54px;background-position:-124px -193px; margin:0 auto; margin-bottom:10px;}
+.no_match_ul .last_a{display:inline-block; width:120px;height:131px;background-color:#EEEEEE; border-radius: 7px; -webkit-border-radius: 7px; -moz-border-radius: 7px; text-align: center;padding-top:13px;}
+.match_list_hover{cursor:pointer;}
+/*鍗曚汉绔炶禌*/
+.uam{width:130px; color:#ec7100;padding-top:30px;}
+.vs{display:inline-block;width:50px;height:27px; background-position:-65px -182px;}
+.single_box{margin-top:30px;background-color:#eeeeee;padding:20px 30px;padding-right:0px;margin-bottom:35px; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; }
+.single_box .dl1{width:350px; float:left;}
+.single_box .dl2{width:250px; float:left;}
+.single_box dt{float:left;}
+.single_box dd{margin-left:60px;}
+.single_box .single_time{width:38px; height:44px; background-position:-71px -34px;}
+.single_box .single_cup{width:43px; height:46px; background-position:-68px -132px;}
+.single_box .single_clew{display:inline-block;width:37px; height:38px; background-position:-71px -85px; margin-right:22px;}
+.win_gold{margin-top:5px;}
+.match_other_left{width:5px; height:35px;background:url(../image/match/match_left_first.png) no-repeat; float:left;}
+.match_other_center{height:30px;background:url(../image/match/match_center_first.png) repeat-x; float:left; min-width:15%;max-width:90%;line-height:31px;}
+.match_other_right{width:40px; height:35px;background:url(../image/match/match_right_first.png) no-repeat; float:left;}
+.match_me_left{width:5px; height:35px;background:url(../image/match/match_left_me.png) no-repeat; float:left;}
+.match_me_center{height:35px;background:url(../image/match/match_center_me.png) repeat-x; float:left; min-width:14%;max-width:90%;line-height:31px;}
+.match_me_right{width:40px; height:35px;background:url(../image/match/match_run_me.png) no-repeat; float:left;}
+.match_team_left{width:5px; height:35px;background:url(../image/match/match_team_left.png) no-repeat; float:left;}
+.match_team_center{height:35px;background:url(../image/match/match_team_center.png) repeat-x; float:left; min-width:14%;max-width:90%;line-height:31px;}
+.match_team_right{width:40px; height:35px;background:url(../image/match/match_run_team.png) no-repeat; float:left;}
+.match_other_right_gain{width:40px; height:35px;background:url(../image/match/match_first_over.png) no-repeat; float:left;}
+.match_other_right_nogain{width:5px; height:35px;background:url(../image/match/matchs_right_over.png) no-repeat; float:left;}
+.match_me_right_gain{width:40px; height:35px;background:url(../image/match/match_cup_me.png.png) no-repeat; float:left;}
+.match_me_right_nogain{width:5px; height:35px;background:url(../image/match/match_right_me.png) no-repeat; float:left;}
+.match_team_right_gain{width:40px; height:35px;background:url(../image/match/match_team_cup.png) no-repeat; float:left;}
+.match_team_right_nogain{width:5px; height:35px;background:url(../image/match/match_team_right.png) no-repeat; float:left;}
+
+.match_ing .data_log{position:absolute; width:auto; max-width:400px; padding-top:3px; top:30px; left:-5px; background-color:#ffffff;display:none; border:1px solid #699000;
+                     filter:alpha(opacity=100);-moz-opacity:1;opacity:1;-webkit-opacity:1;opacity:1; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; z-index: 5;}
+.match_ing .data_log li{width:32px; height:32px; display:inline-block; float: left; margin-right:4px; margin-left:4px; margin-bottom:5px;}
+.match_ing .data_log .smile{background-position:-145px -161px;}
+.match_ing .data_log .jiong{background-position:-213px -161px;}
+
+.match_ing{margin-bottom:15px;}
+.match_ing a img{ border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; }
+.f30{font-size:30px;}
+.f36{font-size: 36px;}
+.f48{font-size:48px;}
+.vscolor{color:#8e8e8e}
+/*澶氫汉绔炶禌*/
+.dandelion_ul{width:550px;}
+.dandelion_ul li{float:left;position:relative;margin-right:12px;margin-bottom:10px; height:40px; line-height: 45px;}
+.dandelion_ul li img{ border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; }
+.match_title_top{}
+/*鍥㈤槦绔炶禌*/
+.match_title_team{height:40px;width: 270px; font-size:30px; color:#666666; line-height: 100%;}
+.team_ul{width:250px; }
+.team_ul img{ border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px;}
+.team_ul li{float:left;position:relative; width:50px; text-align: left;min-height: 55px;}
+.join_teamA{width: 380px;}
+.match_title .team_icon{display:inline-block; border:1px solid #666666; color:#666666; border-right:none;width:64px;height:32px; font-size:14px; border-radius: 4px 0px 0px 4px; -webkit-border-radius: 4px 0px 0px 4px; -moz-border-radius: 4px 0px 0px 4px;  }
+#tab_parent_a_id .team_icon_on{background-color:#666666; color:#ffffff;}
+.match_title .team_icon_on:hover,.team_icon_on:active,.team_icon_on:visited{color:#ffffff;}
+.match_title .teamplayer_icon{display:inline-block;border:1px solid #666666;color:#666666; border-left:none;width:64px;height:32px;border-radius: 0px 4px 4px 0px; -webkit-border-radius: 0px 4px 4px 0px; -moz-border-radius: 0px 4px 4px 0px;}
+
+.team_box{width:320px;float:left;}
+.team_box_title{font-size:30px; margin-bottom:10px; height:55px;position:relative;}
+.team_box_title img{position:absolute;left:0; top:0px;}
+.team_num{margin-top:5px;margin-left:5px;}
+.teamA_color{color:#198eb6;}
+.teamB_color{color:#ffa200;}
+.team_self_color{color:#709E18;}
+.lh{line-height:32px;}
+.join_team{width:380px;height:45px; float:left;}
+.match_lv{display:inline-block;width:45px; text-align:left; text-align: center;}
+.dandelion_ul .nobody_Join_Team{height:100px; line-height:100px;}
+.martop{margin-top:35px;margin-left:10px;}
+.join_time{bottom:0px;left:0px;}
+/*鏃堕棿鎺ュ姏*/
+.teamA_ul{width:650px;}
+.teamA_ul li{margin-right:2px;}
+.teamA_ul li .match_time_teamA_header{border:1px solid #198eb6; border-radius: 7px; -webkit-border-radius: 7px; -moz-border-radius: 7px;}
+.teamA_ul li .match_time_box_line{width:100%; text-align: center; height:10px;}
+.teamA_ul li .match_time_line{border-right:2px solid #198eb6;height:10px;width:2px;}
+.teamA_ul li .match_time_bar{width:100%;height:30px;color:#ffffff;}
+.teamB_ul{width:650px;}
+.teamB_ul li{margin-right:2px;}
+.teamB_ul li .match_time_teamA_header{border:1px solid #ffa200; border-radius: 7px; -webkit-border-radius: 7px; -moz-border-radius: 7px;}
+.teamB_ul li .match_time_box_line{width:100%; text-align: center; height:10px;}
+.teamB_ul li .match_time_line{border-right:2px solid #ffa200;height:10px;width:2px;}
+.teamB_ul li .match_time_bar{width:100%;height:30px;color:#ffffff;}
+.team_right_last{padding-right:35px; text-align:center;}
+.time_join{margin-top:5px;}
+/*閫€鍑洪伄缃�*/
+.Transform_exit{display:none;background-color:black;position:absolute;width:90px; height:90px; left:0px; top:0px; filter:alpha(opacity=70);-moz-opacity:0.70;opacity: 0.7; line-height:90px; text-align: center; border-radius: 7px; -moz-border-radius: 7px; -webkit-border-radius: 7px;}
+.UDtx:hover .Transform_exit{display:block;}
+.Transform_team_exit{display:none; background-color:black;position:absolute;width:90px; height:45px; left:0px; top:45px; filter:alpha(opacity=70);-moz-opacity:0.70;opacity: 0.7; line-height:45px; text-align: center; border-radius: 0px 0px 7px 7px; -moz-border-radius: 0px 0px 7px 7px; -webkit-border-radius: 0px 0px 7px 7px;}
+.UDtx:hover .Transform_team_exit{display:block;}
+.Transform_time_exit{display:none; background-color:black;position:absolute;width:40px; height:40px; left:0px; top:0px; filter:alpha(opacity=70);-moz-opacity:0.70;opacity: 0.7; text-align: center; border-radius: 7px; -moz-border-radius: 7px; -webkit-border-radius: 7px; line-height:40px;}
+.team_ul li:hover .Transform_time_exit, .dandelion_ul li:hover .Transform_time_exit{display:block;}
+.multi_bottom_exit{display:none; background-color:black;position:absolute;width:50px; height:50px; left:0px; top:0px; filter:alpha(opacity=70);-moz-opacity:0.70;opacity: 0.7; text-align: center; border-radius: 7px; -moz-border-radius: 7px; -webkit-border-radius: 7px; line-height:50px;}
+.multi_bottom_exit_p:hover .multi_bottom_exit{display:block;}
+/*鍒涘缓绔炶禌*/
+.create_match_area{margin-bottom:40px;position: relative; width: 650px;}
+.create_match_left{width:58px; text-align: right; float:left; margin-right:21px; height:30px;line-height:30px;}
+.create_match_right{width:500px;float:left;}
+.create_match_right textarea{background-color: #F9F9F9;border: 1px solid #BBBBBB;border-radius: 2px 2px 2px 2px;width:460px; height:120px;}
+#time_select_1{height: 29px;line-height: 29px;margin-left: 15px;text-align: center;width: 80px;}
+#time_select_2{height: 29px;line-height: 29px;margin-left: 15px;text-align: center;width: 80px;}
+.kbspan{height:30px; display:inline-block; line-height:30px;}
+.radioChange{height:30px; line-height:30px;line-height: 30px;}
+.radioChange .r{margin-right:50px;}
+.radioChange input{margin-right:5px;}
+.radioChange span{margin-right:50px;}
+.gl{line-height:35px;}
+.gl a{margin-left:20px; display: inline;}
+.create_green_match_btn{width:140px;}
+/*鍙戦€佹垬涔�*/
+.war{width:650px; color: #333333;}
+.war .w_header{height: 20px;line-height: 100%;padding-top: 10px;text-align: right;}
+.war .w_header a{color: #B9B9B9;line-height: 100%;margin-right: 10px;text-decoration: none;}
+.war .title {font-size: 18px;font-weight: bold;height: 24px;line-height: 24px; color:#333333;}
+.war .w_foot{padding-right: 30px;text-align: center;padding-left:100px;}
+.war .w_foot .ok{background-color: #709E18;margin-left:170px;border: 2px solid #709E18;border-radius: 2px 2px 2px 2px;color: white;cursor: pointer;display: inline-block;height: 30px;line-height: 30px;text-align: center;text-decoration: none;width: 64px;}
+.war  .content_title{height:36px;margin-top:25px;line-height:36px;}
+.war .content_title span{margin-right:30px;}
+.war .content_title input{margin-right:10px;}
+.war .content_title label{margin-right:100px;}
+.war .content_friend{height:400px;overflow-y:auto;}
+.war .content_friend .on .gou{display:inline-block;width:40px; height:40px;background:url(../image/club/gou.png); position:absolute;right:0px; bottom:0px;}
+.war .content_friend .left{width:435px;float:left; min-height:1px;padding-top:10px;}
+.left_dl{width:130px;height:49px;float:left;cursor:pointer;margin-bottom:15px;position:relative;margin-right:10px; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px;padding-top:5px;padding-left:5px;}
+.left_dl:hover{background-color:#EEEEEE;}
+.left_dl img{cursor:pointer;}
+.left_dl dt{float:left;position:relative;}
+.left_dl dd{margin-left:50px;}
+.war .content_friend .right{float:left;padding-left:10px;width:141px;border-left:1px solid #7FA831; min-height:400px;}
+.right_dl{width:150px;height:40px;line-height: 40px; margin-bottom:10px; overflow:hidden;position:relative;}
+.delete{width:11px;height:12px;background-position:-106px -344px;display:inline-block; cursor:pointer;position:absolute; top:15px;right:5px;}
+.right_dl dt{float:left}
+.right_dl dd{margin-left:50px;}
+.search .search_box{width:20px;}
+.search .search_icon{background-position: -131px -298px;height: 17px;margin-top: 10px;width: 18px;}
+.search .search_btn{background-color: #999999;border-radius: 0 7px 7px 0;display: inline-block;height: 35px;line-height: 35px;width: 56px;}
+/*鍒涘缓姣旇禌绫诲瀷*/
+.matchtype{width:870px; height:250px;color: #333333;}
+.matchtype .w_header{height: 20px;line-height: 100%;padding-top: 10px;text-align: right;}
+.matchtype .w_header a{color: #B9B9B9;line-height: 100%;margin-right: 10px;text-decoration: none;}
+.matchtype .title {font-size: 18px;font-weight: bold;height: 24px;line-height: 24px; color:#333333; text-align: center; color:#999999;margin-bottom:20px;}
+.matchtype .w_foot{padding-right: 30px;padding-top: 20px;text-align: center;}
+.matchtype .w_foot .ok{background-color: #709E18;border: 2px solid #709E18;border-radius: 2px 2px 2px 2px;color: white;cursor: pointer;display: inline-block;height: 30px;line-height: 30px;text-align: center;text-decoration: none;width: 64px;}
+.typepk{float:left;display:inline-block;width:140px; height:115px;background-color:#EEEEEE;margin-right:30px;padding-top:25px; text-align: center; border-radius: 7px; -moz-border-radius: 7px; -webkit-border-radius: 7px;}
+.typepk p{color:#7fa831; line-height: 28px;}
+.typepk_last p{color:#7fa831;}
+.typepk:hover{background-color:#7fa831; text-decoration: none;}
+.typepk:hover p{color:#ffffff;}
+.typepk_last{float:left;display:inline-block;width:140px; height:125px;background-color:#EEEEEE;padding-top:15px; text-align: center; border-radius: 7px; -moz-border-radius: 7px; -webkit-border-radius: 7px;}
+.typepk_last:hover{background-color:#7fa831; text-decoration: none;}
+.typepk_last:hover p{color:#ffffff;line-height: 28px;}
+.singleIcon{width:43px; height:50px;background-position:-290px -9px;}
+.typepk:hover .singleIcon{width:43px; height:50px;background-position:-207px -9px;}
+.manyIcon{width:53px;height:49px;background-position:-288px -71px;}
+.typepk:hover .manyIcon{width:53px;height:49px;background-position:-204px -71px;}
+.teamIcon{width:80px; height:45px; background-position:-289px -135px;margin-top:5px;}
+.typepk:hover .teamIcon{width:80px; height:45px; background-position:-205px -135px;}
+.jIcon{width:54px; height:54px; background-position:-293px -193px;margin-top:-3px;}
+.typepk:hover .jIcon{width:54px; height:54px;background-position:-209px -193px;}
+.goalIcon{width:55px; height:55px; background-position:-65px -352px;}
+.typepk_last:hover .goalIcon{background-position:-1px -352px;}
+/*鎴樹功*/
+.war_list{width:650px; overflow-x: hidden; }
+.war_list li{position: relative;z-index:3;}
+.war_list li:hover .delete_match{position:absolute; right:5px; top:5px;display:inline-block;width:11px;height:12px; background-position:-70px -216px; z-index:50;}
+.war_list .war_show{width:115px;height:150px;background:url(../image/match/war_wait.png) no-repeat;float:left;margin:0px 8px; display: inline;padding:15px 15px 0px 15px;margin-bottom:15px; cursor:pointer;}
+.war_list .war_type{height:50px; vertical-align:baseline; display: table;}
+.war_list .war_show .new_war{width:58px; height:50px;background-position:-40px -245px;}
+.war_list .war_show .war_name{height:45px;color:#772222; text-align: center; line-height: 120%; margin-top:5px; letter-spacing: 3px;}
+.war_list .war_show p{font-size:9px;color:#772222; line-height: 160%; text-align: center;}
+.war_list .war_show .wait_war{width:95px; height:23px; background-position:-102px -249px;}
+.war_list .war_show .waring{width:71px;height:24px;background-position:-101px -280px;}
+.war_list .war_over{width:115px;height:150px;background:url(../image/match/war_over.png) no-repeat;float:left;margin:0px 8px; display: inline;padding:15px 15px 0px 15px;margin-bottom:15px; cursor:pointer;}
+.war_list .war_over .war_name{height:45px;color:#999999; text-align: center; line-height: 120%; margin-top:5px; letter-spacing: 3px;}
+.war_list .war_over p{font-size:9px;color:#999999; line-height: 160%; text-align: center;}
+.war_window{width:404px; height:470px;background:url(../image/match/war_window.png) no-repeat;padding-left:18px;padding-right:18px;position: relative; padding-top:55px; z-index: 1011;position:absolute;}
+.tran{position:fixed;z-index:1000;width:100%;height:100%;cursor: default;background-color:black; filter:alpha(opacity=50);-moz-opacity:0.5;-khtml-opacity: 0.5;opacity: 0.5;height:100%;left:0px; top:0px;}
+.war_window .war_from{font-size:24px; color:#772222; text-align: center; padding-left:5px;}
+.war_window .war_from span{color:#699000;}
+.war_window .war_box{margin-top:37px;z-index:9;position: absolute; font-size:24px; color:#772222;height:247px;}
+.bottombutton{height:60px;position: absolute;width:440px;left:0px;bottom:40px; letter-spacing: 20px; text-align: center;}
+.bottombutton .sure{display:inline-block;width:111px;height:41px; background-position:-100px -250px;margin:0 auto;}
+.bottombutton .cancel{display:inline-block;width:90px; height:41px;background-position:-100px -293px;margin:0 auto;}
+.war_window .windowtype{position: absolute;left:120px;top:150px; z-index: 2;}
+.box_x{position:absolute; right:20px; top:20px; width:37px; height:37px; background-position:-44px -297px; cursor:pointer;}
+.co333{color:#333333;}
+.war_window .box_left1{height:44px; width:90px;line-height:44px;margin-right:2px;display:inline}
+.war_window .box_right1{width:325px; height:44px;line-height:44px;}
+.war_window .box_right2{width:325px; line-height:33px;margin-top:6px;}
+.war_window .p1{height:44px;}
+.war_window .p2{height:43px;}
+.war_window .p3{height:41px;}
+.matcher_name{display:inline-block; height:20px; line-height:14px;}
+/*绔炶禌浠嬬粛*/
+.match_area{line-height:28px; text-indent: 24px;width:645px; border-bottom:1px solid #cccccc;}
+.match_area_title{ font-size: 20px;margin-top: 5px;margin-bottom:30px;}
+.introduce_img{margin-bottom:30px;}
+.areaBox{width:600px; overflow: hidden;}
+.area1{width:267px;float:left;display:inline;margin-bottom:80px;margin-right:30px;}
+.area1 dt{float:left;margin-top:10px;margin-left:0px;}
+.area1 dd{margin-left:95px;}
+.area1 .area1_p_text{margin-top:15px;color:#666666;}
+.match_area_line{border-bottom:1px solid #cccccc;}
+.match_ul{margin-left:15px;}
+.match_ul li{list-style:disc; color:#709E18;line-height: 24px;font-size:8px;}
+.match_ul li span{font-size:14px;}
+.match_area_2{border-bottom: 1px solid #CCCCCC;line-height: 28px;text-indent: 24px;width: 615px;}
+.tab_Create{}
+.p_lineHeight{line-height: 24px;}
+.single .item_tab .setshow{padding:0 15px;}
+.single .item_tab .setno{padding:0 15px;}
+.match_title_color{border-radius:8px 8px 8px 8px; height:40px; line-height:40px;}
+.rule_icon{width:20px; height:18px; background-position:-105px -562px;margin-top:12px;}
+.left_nav_ul a:hover .rule_icon{background-position:-136px -562px;}
+.left_nav_ul .on .rule_icon{background-position:-136px -562px;}
+.intro_icon{width:16px; height:20px;background-position:-171px -593px;margin-top:12px;}
+.left_nav_ul a:hover .intro_icon{background-position:-200px -593px;}
+.left_nav_ul .on .intro_icon{background-position:-200px -593px;}
+.team_modify{margin-top:5px; font-size:14px;margin-right:5px;}
+.sure_btn{margin-top:5px;margin-right:5px;}
+.tab_fixline{position:relative; top:-2px; width:100%; height:1px;}
+.person_operate {position:relative;right:0px;top:10px;}
+.icon1_exit {width: 15px;height: 15px;background-position: -215px -250px;}
+.icon1_delete {width: 15px;height: 15px;background-position: -66px -215px;}
+
+.invite_user {width: 90px;height: 35px;background-color:#ffaa2f;border-radius: 4px;line-height: 38px;cursor:pointer; -webkit-border-radius: 4px; -moz-border-radius: 4px;margin-top: 30px;}
+.invite_user a{width: 90px; height: 35px; line-height: 35px; display: block;}
+
+.width80{width: 80px}
+
+label.reg_error {color:red;position:absolute;bottom:-30px;left: 80px;}
+.create_match_area .start_hour{left: 80px;}
+.create_match_area .end_hour{left: 320px;}
+.radius4{border-radius: 4px; -moz-border-radius: 4px;-webkit-border-radius: 4px;}
+
+.match_li{background: url("../image/help/faq_icon.png") no-repeat left 15px;padding-bottom: 10px;padding-left: 22px;padding-top: 10px;width: 100%;}
+.match_now .match_li_on{background: url("../image/help/faq_icon_on.png") no-repeat left 15px;padding-bottom: 10px;padding-left: 22px;padding-top: 10px;width: 100%;}
+.more_player{background-color:#EEEEEE; width:620px; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; padding-top:15px;padding-left:17px;}
+.more_player .player_list{display:inline-block; float:left;height:40px; width:40px; position:relative;margin-right:10px;margin-bottom:8px;}
+/*绔炶禌宸﹁竟瀵艰埅*/
+.match_player_info dl{width:255px;}
+.match_player_info dt{float:left;}
+.match_player_info dd{margin-left:95px;}
+.match_icon_box{ width: 20px; height: 20px;float:left; margin-top:17px;margin-right:18px;}
+.match_icon_box .match_icon_box{width:20px; float:left;}
+.my_match_icon{width:17px; height:17px;background-position:-7px -108px;}
+.match_left_list a:hover .my_match_icon{background-position:-7px -135px;}
+.list_on .my_match_icon{background-position:-7px -135px;}
+.letter_match_icon{width:18px;height:16px;background-position:-30px -109px;}
+.match_left_list a:hover .letter_match_icon{background-position:-30px -136px;}
+.list_on .letter_match_icon{background-position:-30px -136px;}
+.single_match_icon{width:15px;height:18px;background-position:-61px -107px;}
+.match_left_list a:hover .single_match_icon{background-position:-61px -134px;}
+.list_on .single_match_icon{background-position:-61px -134px;}
+.many_match_icon{width:20px;height:23px;background-position:-87px -104px;}
+.match_left_list a:hover .many_match_icon{background-position:-87px -131px;}
+.list_on .many_match_icon{background-position:-87px -131px;}
+.team_match_icon{width:21px;height:21px;background-position:-119px -105px;}
+.match_left_list a:hover .team_match_icon{background-position:-119px -132px;}
+.list_on .team_match_icon{background-position:-119px -132px;}
+.time_match_icon{width:21px;height:21px;background-position:-150px -106px;}
+.match_left_list a:hover .time_match_icon{background-position:-150px -133px;}
+.list_on .time_match_icon{background-position:-150px -133px;} 
+.goal_match_icon{width:21px;height:21px;background-position:-232px -105px;}
+.match_left_list a:hover .goal_match_icon{background-position:-232px -133px;}
+.list_on .goal_match_icon{background-position:-232px -133px;} 
+.history_match_icon{width:21px;height:21px;background-position:-179px -107px;}
+.match_left_list a:hover .history_match_icon{background-position:-179px -134px;}
+.list_on .history_match_icon{background-position:-179px -134px;}
+
+.newest_icon{width:25px; height:13px;background-position:-203px -111px;}
+.match_left_list a:hover .newest_icon{background-position:-203px -137px;}
+.list_on .newest_icon{background-position:-203px -137px;}
+
+.match_list_a:hover{ text-decoration: none;}     
+.orangeBtn{display:inline-block;}
+
+.goal_window{width:340px;}
+.goal_content{padding:0 10px}
+
+.arena_list{ width:313px; height:154px; border:1px solid #A9A9A9; border-radius:4px; -webkit-border-radius:4px; -moz-border-radius:4px; background-color: #DDEBCB; margin: 0 5px;}
+.arena_list .arena_content{ width: 313px; height:90px; border-bottom:1px solid #A9A9A9}
+.arena_list .arena_content .arena_list_left{width: 80px; height: 78px; background-color: #EEEEEE; padding-top:12px;}
+.arena_list .arena_content .arena_list_left .arena_type{margin-bottom:10px;}
+.arena_list .arena_content .arena_list_right{height:90px;padding-left:10px; width: 223px; position: relative;}
+.arena_list .arena_content .arena_list_right .list_right{height:45px; overflow: hidden;}
+.arena_list .arena_content .arena_list_right .list_right .single_cup{width:43px; height:46px; background-position:-68px -132px;}
+.single_time{width:38px; height:44px; background-position:-71px -34px;}
+.arena_list .arena_content .arena_list_right .list_right .right_box{ width: 50px;}
+.right_box_text{font-size: 20px; line-height: 46px;}
+.sports_type{position: absolute; width: 32px; height:32px; right:10px;top:5px;}
+.arena_bottom{height:62px; width: 323px;}

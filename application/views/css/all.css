@@ -1,0 +1,138 @@
+
+.label {
+    font-size: 95%;
+}
+
+.label-default {
+    font-size: 95%;
+}
+
+.mailBlock {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    /*background: #ebf3ff;*/
+    background-color: rgba(235, 243, 255, 0.5);
+    /*opacity: 0.1;*/
+}
+
+.mailBlock:hover {
+    background-color: rgb(162,202,236);
+    cursor: pointer;
+}
+
+.mailBlock div:hover {
+    background-color: rgb(162,202,236);
+    cursor: pointer;
+}
+
+.mailBlock label:hover {
+    cursor: pointer;
+}
+
+.dashedBottom {
+    border-bottom: 1px dashed black;
+}
+
+.defaultBlock {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.user_badge:hover {
+    cursor: default;
+}
+
+.top7 {
+    margin-top: 7px;
+}
+
+.match_table .bgtd{background-color:#ebf3ff;}
+.match_list_hover:hover .bgtd{background-color:rgb(162,202,236);}
+.match_table .td1{background-color:rgb(66,139,202); color:#fff;border-radius: 4px 0 0 4px; -moz-border-radius: 4px 0 0 4px; -webkit-border-radius: 4px 0 0 4px;word-wrap: break-word;word-break: normal;word-break:break-all; width:108px;max-width: 108px; max-height:85px;}
+
+.lightBg{
+	background-color: rgba(218,240,228,0.5);
+}
+
+.transparent {
+    background-color: rgba(0, 0, 0, 0);
+    /*background-color: #e4f2e4;*/
+}
+
+
+.fontHead {
+    font-size: 2.2em;
+    font-family: "Arial", "Microsoft YaHei", "黑体", "宋体", sans-serif;
+}
+
+.font1 {
+    font-size: 2em;
+    font-family: "Arial", "Microsoft YaHei", "黑体", "宋体", sans-serif;
+}
+
+.font2 {
+    font-size: 1.8em;
+    font-family: "Arial", "Microsoft YaHei", "黑体", "宋体", sans-serif;
+}
+
+.font3 {
+    font-size: 1.6em;
+    font-family: "Arial", "Microsoft YaHei", "黑体", "宋体", sans-serif;
+}
+
+.font4 {
+    font-size: 1.4em;
+    font-family: "Arial", "Microsoft YaHei", "黑体", "宋体", sans-serif;
+}
+
+
+.font5 {
+    font-size: 1.2em;
+    font-family: "Arial", "Microsoft YaHei", "黑体", "宋体", sans-serif;
+}
+
+.font6 {
+    font-size: 1em;
+    font-family: "Arial", "Microsoft YaHei", "黑体", "宋体", sans-serif;
+}
+
+.font3-blod {
+    font-size: 1.6em;
+    font-family: "Arial", "Microsoft YaHei", "黑体", "宋体", sans-serif;
+    font-weight: bold;
+}
+
+.font4-blod {
+    font-size: 1.4em;
+    font-family: "Arial", "Microsoft YaHei", "黑体", "宋体", sans-serif;
+    font-weight: bold;
+}
+
+
+.font4-blod {
+    font-size: 1.4em;
+    font-family: "Arial", "Microsoft YaHei", "黑体", "宋体", sans-serif;
+    font-weight: bold;
+}
+
+.rightAlign {
+    text-align: right;
+}
+    /*===========ljh============*/
+    /*.myBorder {*/
+    /*float:left;*/
+    /*border: 1px solid #c5c2c3;*/
+    /*}*/
+.leftpadding {
+    padding-margin: 10px;
+}
+
+.bottom-padding {
+    padding-bottom: 30px;
+}
+
+.m_inline {
+    display: inline;
+}
+
+/*=======================*/
